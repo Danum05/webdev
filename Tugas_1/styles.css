@@ -1,0 +1,106 @@
+
+        .white_text{
+            color:white;
+        }
+
+        .box_1 {
+            width: 300px;
+            height: 250px;
+            margin: 0px;
+            background-color: #133993;
+            border: 1px solid #000000;
+            text-align: center
+        }
+
+        .box_2 {
+            width: 300px;
+            height: 150px;
+            margin: 0px;
+            background-color: #cbe643;
+            border: 1px solid #000000;
+            text-align: center
+
+        }
+        .box_3 {
+            width: 300px;
+            height: 150px;
+            margin: 0px;
+            background-color: #d70000;
+            border: 1px solid #000000;
+            text-align: center
+
+        }
+        .box_4 {
+            width: 300px;
+            height: 150px;
+            margin: 0px;
+            background-color: #39d700;
+            border: 1px solid #000000;
+            text-align: center
+        }    
+        .box_5 {
+            width: 600px;
+            height: 80px;
+            margin: -707px 0 0 300px; 
+            background-color: #000000;
+            border: 1px solid #000000;
+            text-align: center
+        }
+
+        .box_6 {
+            width: 300px;
+            height: 170px;
+            margin: 0 0 0 300px; 
+            background-color: #362110;
+            border: 1px solid #000000;
+            text-align: center
+        }
+        .box_7 {
+            width: 300px;
+            height: 300px;
+            margin: 0 0 0 300px; 
+            background-color: #430f50;
+            border: 1px solid #000000;
+            text-align: center
+        }
+        .box_8 {
+            width: 300px;
+            height: 150px;
+            margin: 0 0 0 300px; 
+            background-color: #bf6517;
+            border: 1px solid #000000;
+            text-align: center
+        }
+        .box_9 {
+            width: 150px;
+            height: 350px;
+            margin: -625px 0 0 600px; 
+            background-color: #f7f7f7;
+            border: 1px solid #000000;
+            text-align: center
+        }
+
+        .box_10 {
+            width: 150px;
+            height: 103px;
+            margin: -352px 0 0 750px; 
+            background-color: #e62d9ca3;
+            border: 1px solid #000000;
+            text-align: center
+        }
+        .box_11 {
+            width: 150px;
+            height: 250px;
+            margin: 0 0 0 750px; 
+            background-color: #00c8f0;
+            border: 1px solid #000000;
+            text-align: center
+        }
+        .box_12 {
+            width: 300px;
+            height: 277px;
+            margin: -10px 0 0 600px; 
+            background-color: #6f6e6d;
+            border: 1px solid #000000;
+            text-align: center
+        }
