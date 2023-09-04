@@ -1,0 +1,108 @@
+body, h1, h2, ul, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.input-section {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.input-barang {
+    flex: 1;
+    margin: 0 10px;
+}
+
+.jumlah {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.nama-barang {
+    font-weight: bold;
+}
+
+.harga {
+    color: #666;
+}
+
+.input-jumlah {
+    width: 50px;
+    text-align: center;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+
+.plus-button, .minus-button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.submit-button {
+    background-color: #28A745;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.cart-section {
+    background-color: #f8f8f8;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+#cart-list {
+    list-style: none;
+    padding: 0;
+}
+
+.cart-item {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+}
+
+.Total-Harga {
+    font-weight: bold;
+}
+
+#total-pembelian {
+    font-weight: bold;
+    color: #28A745;
+}
+
+.form-control{
+    text-align: center;
+}
+
+.item-image {
+    width: 150px; 
+    height: 150px; 
+    object-fit: cover; 
+}
+
+.cart-item-image{
+    width: 150px; 
+    height: 150px; 
+    object-fit: cover; 
+}
+
